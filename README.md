@@ -14,3 +14,10 @@ docker run --rm -p 8000:8000 height_weight
 3. predict using 
 http://127.0.0.1:8000/predict?1.7
 
+## jenkins
+1. install and setup jenkins
+2. configure job to build. (webhook requires your jenkins to be exposed to internet)
+
+## nginx and Gunicorn
+1.
+
